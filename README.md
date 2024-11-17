@@ -3,14 +3,14 @@
 A Python application that performs real-time text detection in images and video streams using OpenCV and the EAST text detector model.
 
 ## 📋 Table of Contents
-- [✨ Features](#✨-features)
-- [🔧 Requirements](#🔧-requirements)
-- [🚀 Installation](#🚀-installation)
-- [💻 Usage](#💻-usage)
-- [🔍 How it Works](#🔍-how-it-works)
-- [🤝 Contributing](#🤝-contributing)
-- [📄 License](#📄-license)
-- [🙏 Acknowledgments](#🙏-acknowledgments)
+- [✨ Features](#-features)
+- [🔧 Requirements](#-requirements)
+- [🚀 Installation](#-installation)
+- [💻 Usage](#-usage)
+- [🔍 How it Works](#-how-it-works)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [🙏 Acknowledgments](#-acknowledgments)
 
 ## ✨ Features
 - Real-time text detection in images
